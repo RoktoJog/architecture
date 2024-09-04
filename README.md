@@ -3,6 +3,8 @@ The architecture documentation of project 'RoktoJog'
 
 Certainly! Below is a high-level system diagram that outlines the key components and interactions for your blood donation platform.
 
+Slide: https://docs.google.com/presentation/d/1etLFJ5n5DtjjVsJagSBV2QZ0oFbr6CA6slLQ_i2HF7M/edit?usp=sharing
+
 ### High-Level System Diagram
 
 ```plaintext
